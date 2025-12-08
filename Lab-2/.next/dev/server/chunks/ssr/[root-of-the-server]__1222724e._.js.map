@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/nhungnguyen/Documents/VTC_ky2/Shopping/Lab-2/app/page.tsx"],"sourcesContent":["import React from 'react';\nimport LoginForm from \"@/components/LoginForm\";\n\nconst App: React.FC = () => {\n  const handleLogin = (data: { usernameOrEmail: string; password: string; rememberMe: boolean }) => {\n    console.log('Dữ liệu đăng nhập:', data);\n  };\n\n  return (\n    <div className=\"App\">\n      <LoginForm onSubmit={handleLogin} />\n    </div>\n  );\n};\n\nexport default App;"],"names":[],"mappings":";;;;;;;;;;;;AAGA,MAAM,MAAgB;IACpB,MAAM,cAAc,CAAC;QACnB,QAAQ,GAAG,CAAC,sBAAsB;IACpC;IAEA,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;YAAU,UAAU;;;;;;;;;;;AAG3B;uCAEe"}}]
+}

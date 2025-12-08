@@ -1,0 +1,2171 @@
+[00:00:01.243] Server  LOG      ✓ Ready in 974ms
+[00:00:04.172] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.467] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:11.259] Browser LOG     Dữ liệu đăng nhập: {"password":"2","rememberMe":false,"usernameOrEmail":"a"}
+[00:00:11.880] Browser LOG     Dữ liệu đăng nhập: {"password":"2","rememberMe":false,"usernameOrEmail":"a"}
+[00:00:12.046] Browser LOG     Dữ liệu đăng nhập: {"password":"2","rememberMe":false,"usernameOrEmail":"a"}
+[00:00:12.179] Browser LOG     Dữ liệu đăng nhập: {"password":"2","rememberMe":false,"usernameOrEmail":"a"}
+[00:00:12.341] Browser LOG     Dữ liệu đăng nhập: {"password":"2","rememberMe":false,"usernameOrEmail":"a"}
+[00:00:12.504] Browser LOG     Dữ liệu đăng nhập: {"password":"2","rememberMe":false,"usernameOrEmail":"a"}
+[00:00:12.675] Browser LOG     Dữ liệu đăng nhập: {"password":"2","rememberMe":false,"usernameOrEmail":"a"}
+[00:00:12.922] Browser LOG     Dữ liệu đăng nhập: {"password":"2","rememberMe":false,"usernameOrEmail":"a"}
+[00:00:13.157] Browser LOG     Dữ liệu đăng nhập: {"password":"2","rememberMe":false,"usernameOrEmail":"a"}
+[00:04:44.640] Browser LOG     Dữ liệu đăng nhập: {"password":"2","rememberMe":false,"usernameOrEmail":"a"}
+[00:04:46.184] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:49.965] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":false,"usernameOrEmail":"a"}
+[00:04:50.433] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":false,"usernameOrEmail":"a"}
+[00:04:50.594] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":false,"usernameOrEmail":"a"}
+[00:04:50.782] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":false,"usernameOrEmail":"a"}
+[00:04:50.999] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":false,"usernameOrEmail":"a"}
+[00:04:51.193] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":false,"usernameOrEmail":"a"}
+[00:08:40.129] Server  LOG      ✓ Compiled in 126ms
+[00:08:56.694] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:00.816] Server  LOG      ✓ Compiled in 73ms
+[00:09:04.623] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":false,"usernameOrEmail":"a"}
+[00:09:05.072] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":false,"usernameOrEmail":"a"}
+[00:09:05.259] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":false,"usernameOrEmail":"a"}
+[00:09:06.889] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:09:07.083] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:09:07.246] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:09:07.417] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:09:07.571] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:38.747] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:39.217] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:39.405] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:39.580] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:39.756] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:39.951] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:40.177] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:41.955] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:42.140] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:42.342] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:42.492] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:42.640] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:42.817] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:42.979] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:11:43.197] Browser LOG     Dữ liệu đăng nhập: {"password":"1","rememberMe":true,"usernameOrEmail":"a"}
+[00:20:41.604] Server  LOG      ✓ Compiled in 233ms
+[00:20:45.814] Browser LOG     Dữ liệu đăng nhập: {"password":"a","rememberMe":true,"usernameOrEmail":"a"}
+[00:21:19.770] Browser LOG     Dữ liệu đăng nhập: {"password":"0905419542","rememberMe":false,"usernameOrEmail":"p@gmail.com"}
+[00:21:22.666] Browser LOG     Dữ liệu đăng nhập: {"password":"0905419542","rememberMe":false,"usernameOrEmail":"p@gmail.com"}
+[00:23:27.640] Server  LOG      ✓ Compiled in 165ms
+[00:24:58.323] Browser LOG     Dữ liệu đăng ký: {"confirmPassword":"123456","password":"123456","usernameOrEmail":"p@gmail.com"}
+[00:25:10.441] Browser LOG     Dữ liệu đăng nhập: {"password":"s","rememberMe":false,"usernameOrEmail":"p@gmail.com"}
+[00:25:17.377] Browser LOG     Dữ liệu đăng nhập: {"password":"123456","rememberMe":false,"usernameOrEmail":"p@gmail.com"}
+[00:27:23.956] Server  LOG      ✓ Compiled in 232ms
+[00:27:27.530] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:27:45.014] Browser LOG     Dữ liệu đăng nhập: {"password":"123456","rememberMe":false,"usernameOrEmail":"p@gmail.com"}
+[00:27:59.753] Browser LOG     Dữ liệu đăng ký: {"confirmPassword":"123456","password":"123456","usernameOrEmail":"p@gmail.com"}
+[00:28:10.205] Browser LOG     Dữ liệu đăng nhập: {"password":"123456","rememberMe":false,"usernameOrEmail":"p@gmail.com"}
+[00:28:39.713] Server  LOG      ✓ Compiled in 67ms
+[00:28:43.363] Server  LOG      ✓ Compiled in 62ms
+[00:39:57.580] Server  LOG      ✓ Compiled in 157ms
+[00:40:33.900] Server  LOG      ✓ Compiled in 162ms
+[00:40:49.715] Server  LOG      ✓ Compiled in 60ms
+[00:40:49.831] Browser ERROR   ./app/ProductListing.tsx:142:1
+Parsing ecmascript source code failed
+  140 |     </div>
+  141 |   );
+> 142 | };
+      | ^
+  143 |
+  144 | export default ProductListing;
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./app/ProductListing.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/ProductListing.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:41:40.821] Server  LOG      ✓ Compiled in 149ms
+[00:41:44.377] Browser LOG     Dữ liệu đăng nhập: {"password":"a","rememberMe":false,"usernameOrEmail":"a"}
+[00:41:49.471] Server  LOG      ✓ Compiled in 66ms
+[00:41:51.776] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:41:54.425] Browser LOG     Dữ liệu đăng nhập: {"password":"a","rememberMe":false,"usernameOrEmail":"a"}
+[00:41:55.049] Browser LOG     Dữ liệu đăng nhập: {"password":"a","rememberMe":false,"usernameOrEmail":"a"}
+[00:41:55.187] Browser LOG     Dữ liệu đăng nhập: {"password":"a","rememberMe":false,"usernameOrEmail":"a"}
+[00:41:56.056] Browser LOG     Dữ liệu đăng nhập: {"password":"a","rememberMe":false,"usernameOrEmail":"a"}
+[00:42:21.399] Server  LOG      ✓ Compiled in 57ms
+[00:42:21.505] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import traces:
+  Client Component Browser:
+    ./app/LoginForm.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/LoginForm.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:45:32.243] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import traces:
+  Client Component Browser:
+    ./app/LoginForm.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/LoginForm.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:45:32.243] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import traces:
+  Client Component Browser:
+    ./app/LoginForm.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/LoginForm.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:58:43.114] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import traces:
+  Client Component Browser:
+    ./app/LoginForm.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/LoginForm.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[00:58:43.115] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import traces:
+  Client Component Browser:
+    ./app/LoginForm.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/LoginForm.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:01:41.935] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:01:50.966] Server  LOG      ✓ Compiled in 52ms
+[01:01:51.099] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import traces:
+  Client Component Browser:
+    ./app/LoginForm.tsx [Client Component Browser]
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/LoginForm.tsx [Client Component SSR]
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+[01:02:10.513] Server  LOG      ✓ Compiled in 130ms
+[01:02:10.641] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:02:10.641] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:02:19.295] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:02:19.295] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:02:22.608] Server  ERROR    ⨯ ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+
+
+
+./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+
+
+[01:02:22.729] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:02:22.729] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:02:23.282] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:02:23.282] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:02:23.282] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:02:23.282] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:02:24.372] Browser ERROR   uncaughtError: Error: ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+
+
+[01:02:24.541] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:02:24.541] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:02:24.701] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:02:24.701] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:02:27.406] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:02:27.406] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:02:27.601] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:02:27.601] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:02:27.765] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:02:27.765] Browser ERROR   ./app/LoginForm.tsx:96:5
+Parsing ecmascript source code failed
+  94 |       </div>
+  95 |     </div>
+> 96 |     interface Product {
+     |     ^^^^^^^^^
+  97 |       id: number;
+  98 |       name: string;
+  99 |       price: string;
+
+Expected ',', got 'interface'
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:02:31.533] Browser ERROR   ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // ProductListing.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Menu, Grid } from 'lucide-react';
+  5 |
+  6 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:02:31.533] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:02:33.292] Server  ERROR    ⨯ ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // ProductListing.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Menu, Grid } from 'lucide-react';
+  5 |
+  6 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+
+
+
+./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+
+
+[01:02:33.425] Browser ERROR   uncaughtError: Error: ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // ProductListing.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Menu, Grid } from 'lucide-react';
+  5 |
+  6 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+
+
+[01:02:33.563] Browser ERROR   ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // ProductListing.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Menu, Grid } from 'lucide-react';
+  5 |
+  6 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:02:33.563] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:02:33.563] Browser ERROR   ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // ProductListing.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Menu, Grid } from 'lucide-react';
+  5 |
+  6 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:02:33.563] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:03:49.644] Browser ERROR   ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // LoginForm.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Lock, User, KeyRound, ArrowRight } from 'lucide-react';
+  5 | // import { LoginData } from './types'; // Giả sử LoginData được định nghĩa ở đây hoặc bạn cần tạo file types.ts
+  6 |
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:03:49.644] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:03:51.431] Server  ERROR    ⨯ ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // LoginForm.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Lock, User, KeyRound, ArrowRight } from 'lucide-react';
+  5 | // import { LoginData } from './types'; // Giả sử LoginData được định nghĩa ở đây hoặc bạn cần tạo file types.ts
+  6 |
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+
+
+
+./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+
+
+[01:03:51.576] Browser ERROR   uncaughtError: Error: ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // LoginForm.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Lock, User, KeyRound, ArrowRight } from 'lucide-react';
+  5 | // import { LoginData } from './types'; // Giả sử LoginData được định nghĩa ở đây hoặc bạn cần tạo file types.ts
+  6 |
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+
+
+[01:03:51.715] Browser ERROR   ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // LoginForm.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Lock, User, KeyRound, ArrowRight } from 'lucide-react';
+  5 | // import { LoginData } from './types'; // Giả sử LoginData được định nghĩa ở đây hoặc bạn cần tạo file types.ts
+  6 |
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:03:51.715] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:03:51.715] Browser ERROR   ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // LoginForm.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Lock, User, KeyRound, ArrowRight } from 'lucide-react';
+  5 | // import { LoginData } from './types'; // Giả sử LoginData được định nghĩa ở đây hoặc bạn cần tạo file types.ts
+  6 |
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:03:51.715] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:04:01.642] Browser ERROR   ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // LoginForm.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Lock, User, KeyRound, ArrowRight } from 'lucide-react';
+  5 | // import { LoginData } from './types'; // Giả sử LoginData được định nghĩa ở đây hoặc bạn cần tạo file types.ts
+  6 |
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:04:01.642] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:04:01.642] Browser ERROR   ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // LoginForm.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Lock, User, KeyRound, ArrowRight } from 'lucide-react';
+  5 | // import { LoginData } from './types'; // Giả sử LoginData được định nghĩa ở đây hoặc bạn cần tạo file types.ts
+  6 |
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:04:01.642] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:04:04.588] Server  ERROR    ⨯ ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // LoginForm.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Lock, User, KeyRound, ArrowRight } from 'lucide-react';
+  5 | // import { LoginData } from './types'; // Giả sử LoginData được định nghĩa ở đây hoặc bạn cần tạo file types.ts
+  6 |
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+
+
+
+./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+
+
+[01:04:04.726] Browser ERROR   uncaughtError: Error: ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // LoginForm.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Lock, User, KeyRound, ArrowRight } from 'lucide-react';
+  5 | // import { LoginData } from './types'; // Giả sử LoginData được định nghĩa ở đây hoặc bạn cần tạo file types.ts
+  6 |
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+
+
+[01:04:04.866] Browser ERROR   ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // LoginForm.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Lock, User, KeyRound, ArrowRight } from 'lucide-react';
+  5 | // import { LoginData } from './types'; // Giả sử LoginData được định nghĩa ở đây hoặc bạn cần tạo file types.ts
+  6 |
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:04:04.866] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:04:04.866] Browser ERROR   ./app/LoginForm.tsx:3:17
+Ecmascript file had an error
+  1 | // LoginForm.tsx
+  2 |
+> 3 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  4 | import { Lock, User, KeyRound, ArrowRight } from 'lucide-react';
+  5 | // import { LoginData } from './types'; // Giả sử LoginData được định nghĩa ở đây hoặc bạn cần tạo file types.ts
+  6 |
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/LoginForm.tsx
+    ./app/page.tsx
+[01:04:04.866] Browser ERROR   ./app/ProductListing.tsx:1:17
+Ecmascript file had an error
+> 1 | import React, { useState } from 'react';
+    |                 ^^^^^^^^
+  2 | import { Menu, Grid } from 'lucide-react';
+  3 |
+  4 | // ----------------------------------------------------
+
+You're importing a component that needs `useState`. This React Hook only works in a Client Component. To fix, mark the file (or its parent) with the `"use client"` directive.
+
+ Learn more: https://nextjs.org/docs/app/api-reference/directives/use-client
+
+Import trace:
+  Server Component:
+    ./app/ProductListing.tsx
+    ./app/page.tsx
+[01:05:02.769] Server  LOG      ✓ Compiled in 47ms
+[01:05:03.249] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:05:14.527] Server  LOG      ✓ Compiled in 55ms
+[01:05:16.234] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:05:16.523] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:05:25.240] Server  LOG      ✓ Compiled in 69ms
+[01:05:27.661] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:05:30.458] Browser LOG     Submit Login Form (chức năng đã bỏ qua)
+[01:05:30.915] Browser LOG     Submit Login Form (chức năng đã bỏ qua)
+[01:05:31.355] Browser LOG     Submit Login Form (chức năng đã bỏ qua)
+[01:05:31.516] Browser LOG     Submit Login Form (chức năng đã bỏ qua)
+[01:05:31.662] Browser LOG     Submit Login Form (chức năng đã bỏ qua)
+[01:05:33.374] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:30.109] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.110] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.111] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.126] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.129] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.131] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.133] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.134] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.146] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.147] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.148] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.149] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.153] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.156] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.157] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.159] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.160] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.161] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.162] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.165] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.167] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.168] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.169] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.171] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.174] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.176] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.180] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.181] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.183] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.186] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.187] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.188] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:30.190] Server  LOG      ✓ Compiled in 213ms
+[01:06:30.310] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[01:06:35.169] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[01:06:36.903] Server  ERROR    ⨯ ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:37.037] Browser ERROR   uncaughtError: Error: ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[01:06:37.180] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[01:06:37.181] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[01:06:42.101] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[01:06:48.189] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[01:06:48.535] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[01:06:49.539] Browser ERROR   ./app/page.tsx:3:1
+Module not found: Can't resolve './LoginForm'
+  1 | "use client";
+  2 |
+> 3 | import LoginForm from "./LoginForm"; 
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  4 | import ProductListing from './ProductListing';
+  5 |
+  6 | function App() {
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[01:06:53.963] Server  LOG      ✓ Compiled in 45ms
+[01:06:54.727] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:07:06.579] Browser LOG     Dữ liệu đăng nhập: {"password":"s","rememberMe":false,"usernameOrEmail":"a"}
+[01:07:07.037] Browser LOG     Dữ liệu đăng nhập: {"password":"s","rememberMe":false,"usernameOrEmail":"a"}
+[01:07:07.209] Browser LOG     Dữ liệu đăng nhập: {"password":"s","rememberMe":false,"usernameOrEmail":"a"}
+[01:07:38.911] Server  LOG      ✓ Compiled in 48ms
+[01:07:46.781] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:08:32.660] Browser LOG     Dữ liệu đăng ký: {"confirmPassword":"123456","password":"123456","usernameOrEmail":"a@gmail.com"}
+[01:08:42.336] Browser LOG     Dữ liệu đăng nhập: {"password":"123456","rememberMe":false,"usernameOrEmail":"a@gmail.com"}
+[60:52:33.826] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[60:52:54.499] Browser LOG     Dữ liệu đăng nhập: {"password":"123456","rememberMe":false,"usernameOrEmail":"a@gmail.com"}
+[60:53:12.542] Browser LOG     Dữ liệu đăng ký: {"confirmPassword":"123456","password":"123456","usernameOrEmail":"p@gmail.com"}
+[60:53:26.819] Browser LOG     Dữ liệu đăng nhập: {"password":"123456","rememberMe":false,"usernameOrEmail":"p@gmail.com"}
+[60:53:58.290] Server  LOG      ✓ Compiled in 130ms
+[60:54:11.443] Server  LOG      ✓ Compiled in 76ms
+[60:54:14.258] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[60:54:58.063] Browser LOG     Dữ liệu đăng nhập: {"password":"123456","rememberMe":false,"usernameOrEmail":"a@gmail.com"}
+[60:55:17.128] Browser LOG     Dữ liệu đăng nhập: {"password":"123456","rememberMe":false,"usernameOrEmail":"p@gmail.com"}
+[60:55:35.053] Browser LOG     Dữ liệu đăng ký: {"confirmPassword":"123456","password":"123456","usernameOrEmail":"a@gmail.com"}
+[60:55:47.995] Browser LOG     Dữ liệu đăng nhập: {"password":"123456","rememberMe":false,"usernameOrEmail":"a@gmail.com"}
+[60:56:43.631] Server  LOG      ✓ Compiled in 52ms
+[60:56:43.736] Browser ERROR   ./app/page.tsx:22:1
+Ecmascript file had an error
+  20 |   return <LoginForm onSubmit={handleLogin} />;
+  21 | }
+> 22 | export default App;
+     | ^^^^^^^^^^^^^^^^^^^
+
+the name `default` is exported multiple times
+
+Import traces:
+  Client Component Browser:
+    ./app/page.tsx [Client Component Browser]
+    ./app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./app/page.tsx [Client Component SSR]
+    ./app/page.tsx [Server Component]
